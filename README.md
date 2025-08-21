@@ -17,12 +17,10 @@ https://github.com/user-attachments/assets/bb05e158-56e7-4068-bc9c-90517a4a683b
 
 The system tracks the drones by utilizing Remote ID, a standard by the FAA requiring drones to broadcast their location via bluetooth and wifi as they are in flight.
 # My work
-My development was focused on the backend in Django and the web application in React.
-Utilizing websockets, I was able to connect the station to Django hosted on AWS, then to our web application. 
-All of the captured drone and station data was also stored in an SQLite database as it went through Django, as well as one camera frame per second.
-One of the larger features I developed on the web app was the playback mode. This allowed the user to select a time window and go through the window to see historical drone movements detected by our system.
+...
 
 Here is a demo of the playback mode utilizing data from the test seen above:
 
 https://github.com/user-attachments/assets/1b6b7ded-23c2-4e7e-af90-677b6f6f6a79
 
+Forked from Jacob Hunter's Github Project that contained all of the publically available files from the project.
