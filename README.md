@@ -22,7 +22,8 @@ Here is a demo of the playback mode utilizing data from the test seen above:
 https://github.com/user-attachments/assets/1b6b7ded-23c2-4e7e-af90-677b6f6f6a79
 
 # My work
-Built the developer space by kickstarting machines, configuring user accounts, and verifying network connections.
-Developed the "geo-fenching feature" which is not shown in the demo but allows users
+Built the developer space by kickstarting machines, configuring user accounts, and verifying network connections. Developed the "geo-fencing feature" which is shown above when the user draws a red shape around the drone. The idea of this feature was that there is an alert based on if a drone is inside the user drawn box. This alert could later be developed further to send emails or produce other alerts and using ray casting to determine if it is in the area.
+
+...
 
 Forked from Jacob Hunter's Github Project that contained all of the publically available files from the project.
