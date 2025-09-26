@@ -23,6 +23,6 @@ https://github.com/user-attachments/assets/1b6b7ded-23c2-4e7e-af90-677b6f6f6a79
 
 # My work
 Built the developer space by kickstarting machines, configuring user accounts, and verifying network connections.
-Developed the "geo-fenching feature" which as
+Developed the "geo-fenching feature" which is not shown in the demo but allows users
 
 Forked from Jacob Hunter's Github Project that contained all of the publically available files from the project.
