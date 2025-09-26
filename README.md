@@ -16,11 +16,13 @@ https://github.com/user-attachments/assets/bb05e158-56e7-4068-bc9c-90517a4a683b
 
 
 The system tracks the drones by utilizing Remote ID, a standard by the FAA requiring drones to broadcast their location via bluetooth and wifi as they are in flight.
-# My work
-...
 
 Here is a demo of the playback mode utilizing data from the test seen above:
 
 https://github.com/user-attachments/assets/1b6b7ded-23c2-4e7e-af90-677b6f6f6a79
+
+# My work
+Built the developer space by kickstarting machines, configuring user accounts, and verifying network connections.
+Developed the "geo-fenching feature" which as
 
 Forked from Jacob Hunter's Github Project that contained all of the publically available files from the project.
